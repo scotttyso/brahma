@@ -27,7 +27,7 @@ Our solution will levegerage the following technologies
 
 ## Solution Components
 
-* Cisco ACI APIC Cluster with Internet connectivity
+* Cisco ACI APIC Cluster with internet connectivity
 * Spine and Leaf Topology Discovered by the APIC cluster
 <!-- This does not need to be completed during the initial submission phase  
 
