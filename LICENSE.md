@@ -1,4 +1,3 @@
-<html> 
 <p style="text-align: "center";bgcolor="#f0f3f4";>CISCO SAMPLE CODE LICENSE<br>
  Version 1.0<br>
 Copyright (c) 2019 Cisco and/or its affiliates</p>
@@ -79,4 +78,3 @@ Copyright (c) 2019 Cisco and/or its affiliates</p>
       in a particular situation will act as a waiver of such rights. In the
       event of any inconsistencies with any other terms, this License shall
       take precedence.
-</html>
