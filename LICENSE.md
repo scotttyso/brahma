@@ -1,6 +1,7 @@
-                           CISCO SAMPLE CODE LICENSE
-                                  Version 1.0
-                Copyright (c) 2019 Cisco and/or its affiliates
+<html> 
+<p style="text-align: "center";bgcolor="#f0f3f4";>CISCO SAMPLE CODE LICENSE<br>
+ Version 1.0<br>
+Copyright (c) 2019 Cisco and/or its affiliates</p>
 
    These terms govern this Cisco example or demo source code and its
    associated documentation (together, the "Sample Code"). By downloading,
@@ -78,3 +79,4 @@
       in a particular situation will act as a waiver of such rights. In the
       event of any inconsistencies with any other terms, this License shall
       take precedence.
+</html>
