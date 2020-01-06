@@ -1,40 +1,34 @@
 # brahma
 
-Cisco ACI deployment simplification service
+Cloud based deployment tool to ease the deployment of Cisco's ACI for most general settings when working with a greenfield deployment
 
 
 ## Business/Technical Challenge
 
-**TODO:** 1-3 paragraphs of the business/technical Challenge
+One of the most challenging hurdles for customers to adopting ACI as a technology is the initial setup / configuration of ACI.  Implementing networking with a GUI when the customer has used CLI based configurations for many times decades.
 
-## Proposed Solution
-
-
-**TODO:** 1-3 paragraphs of the solution in written format
+This project is being developed to provide a more seamless transition for customers making the initial setup of ACI much simpler by taking the vast majority of the most common implementation requirements of customers and making the transition to ACI much more simple for customers
 
 
 ### Cisco Products Technologies/ Services
 
-**TODO:** List out major technologies included in the solution (ACI, DNAC, third party, etc) e.g
-
-Our solution will levegerage the following Cisco technologies
+Our solution will levegerage the following technologies
 
 * [Application Centric Infrastructure (ACI)](http://cisco.com/go/aci)
-* [DNA Center (DNA-C)](http://cisco.com/go/dna)
+* [ACI Cobra SDK](https://github.com/datacenter/cobra)
 
 ## Team Members
 
-
-**TODO:** ASIC projects must consist of a minimum of 2 SE’s
-representing a minimum of 2 segments. List names here
-
-* team member1 <email> - Segment Name
-* team member2 <email> - Segment Name
+* Matthew Garrett - USC (West)
+* Michael Finch - GES (South)
+* Tim Miller - GVE (US)
+* Tyson Scott - GES (MWA)
 
 
 ## Solution Components
 
-
+* Cisco ACI APIC Cluster with Internet connectivity
+* Spine and Leaf Topology Discovered by the APIC cluster
 <!-- This does not need to be completed during the initial submission phase  
 
 Provide a brief overview of the components involved with this project. e.g Python /  -->
@@ -42,6 +36,7 @@ Provide a brief overview of the components involved with this project. e.g Pytho
 
 ## Usage
 
+The purpose of the Brahma tool is to simplify the deployment of an ACI Fabric for our customers.
 <!-- This does not need to be completed during the initial submission phase  
 
 Provide a brief overview of how to use the solution  -->
@@ -50,7 +45,7 @@ Provide a brief overview of how to use the solution  -->
 
 ## Installation
 
-How to install or setup the project for use.
+Brahma is provides as a software service.  No installation requirements.
 
 
 ## Documentation
